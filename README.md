@@ -14,3 +14,4 @@
 ### 录屏工具 FocuSee - 自动将屏幕录制转化为引人注目的视频
 
 官网: https://focusee.imobie.com/cn/
+下载: https://github.com/0x7556/tools/raw/refs/heads/main/%E5%BD%95%E5%B1%8F%E5%B7%A5%E5%85%B7focusee-en-v1-setup.exe
