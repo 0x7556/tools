@@ -11,6 +11,10 @@
 ![image](http://www.18k.icu/img/web.png)
 
 ## 官方免费工具
+
+### WinRAR压缩软件
+https://www.win-rar.com/download.html?&L=0
+
 ### 录屏工具 FocuSee - 自动将屏幕录制转化为引人注目的视频
 
 - **官网**: [FocuSee](https://focusee.imobie.com/cn/)
